@@ -1,0 +1,52 @@
+header.masthead {
+    padding-top: 33rem;
+    padding-bottom: calc(10rem - 0.5rem);
+   background:  url(images/food.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    
+}
+footer{
+	background-color: #672b2b;
+	text-align: center;
+	border-top: 0.2rem solid#000;
+}
+.service-item {
+    text-align: center;
+    background-color: #f1f1ff;
+    padding: 30px 25px;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 0px 0px 10px 2px rgb(0 0 0 / 10%);
+    box-shadow: 0px 0px 10px 2px rgb(0 0 0 / 10%);
+    -webkit-transition: .25s ease-out;
+    transition: .25s ease-out;
+    }
+.alert
+{
+	margin:20px;
+	width:70%;
+}
+
+.form-control
+{
+ background-color: #f4f4f4;
+     border: 1.5px solid #474a4b;
+
+
+  }
+  hr
+  {
+    color: #0d0f1a;
+    padding: 1.2px;
+  }
+
+  label{
+      background-color: #e5e5e5;
+    color: #1c0000;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 5px;
+    margin: 10px 0;
+}
